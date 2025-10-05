@@ -1,9 +1,6 @@
 ---
 author: Wilson Francisco, João Pedro, Isllâne
 ---
-```
-Colaboradores - Isllâne Maria, João Pedro, Wilson Francisco
-```
 
 - [1. Guia de comandos Linux](#1-guia-de-comandos-linux)
   - [1.1. Comandos](#11-comandos)
