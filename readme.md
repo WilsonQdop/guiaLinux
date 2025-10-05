@@ -25,17 +25,6 @@ Poderá colocar print de tela, imagens... use a criatividade. (Editar)
 
 ## 1.1. Comandos
 
-
-
-
-
-
-
-
-
-
-
-
 ### 1.1.1. - Obter informações do sistema
 
 | COMANDO     | O QUE FAZ | EXEMPLO |
